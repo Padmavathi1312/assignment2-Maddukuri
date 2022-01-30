@@ -19,9 +19,10 @@ Below are the directions for travelling to foodcourt from airport
 List of good food items that are recommended to others in Bawarchi
 - Virgin watermelon margarita mocktail
 - Chicken manchow soup
-- Non-veg Biryanis
+- Main course
     - Spicy chicken dum biryani
     - Mixed biryani
-- Sizzling brownie icecream
-- Gulab Jamun
+- Deserts
+    - Sizzling brownie icecream
+    - Gulab Jamun
 
