@@ -42,4 +42,17 @@ Below is the table for 4 best activities that one should try in a lifetime. It h
 | Mountain Climbing | Pune | 10 |
 | Skuba Diving | Goa | 40 |
 
+---
+
+# Inspirational quotes
+
+> “Be the change that you wish to see in the world.”
+>> *-Mahatma Gandhi*
+
+> “It is never too late to be what you might have been.”
+>> *-George Eliot*
+
+
+
+
 
