@@ -52,6 +52,35 @@ Below is the table for 4 best activities that one should try in a lifetime. It h
 > “It is never too late to be what you might have been.”
 >> *-George Eliot*
 
+***
+
+# CODE FENCING
+
+`Sparse Table is a data structure that answers static Range Minimum Query (RMQ). It is recognized for its relatively fast query and short implementation compared to other data structures`
+
+[Link of source](https://brilliant.org/wiki/sparse-table/#:~:text=Sparse%20Table%20is%20a%20data,compared%20to%20other%20data%20structures.)
+
+```
+void make_set(int v) {
+    parent[v] = v;
+}
+
+int find_set(int v) {
+    if (v == parent[v])
+        return v;
+    return find_set(parent[v]);
+}
+
+void union_sets(int a, int b) {
+    a = find_set(a);
+    b = find_set(b);
+    if (a != b)
+        parent[b] = a;
+}
+```
+[quick link to the source code](https://cp-algorithms.com/data_structures/sparse-table.html)
+
+
 
 
 
