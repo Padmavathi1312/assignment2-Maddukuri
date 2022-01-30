@@ -30,3 +30,16 @@ List of good food items that are recommended to others in Bawarchi
 
 [link to AboutMe](https://github.com/Padmavathi1312/assignment2-Maddukuri/blob/main/AboutMe.md)
 
+---
+
+# TABLE CREATION
+
+Below is the table for 4 best activities that one should try in a lifetime. It has details regarding the location of the activity and the amount of money needed for the personal equipment.
+| Activity | Location | Amount in $|
+| --- | --- | ---: |
+| Kayaking | Dandeli | 20 |
+| River Rafting | Dudhsagar | 30 |
+| Mountain Climbing | Pune | 10 |
+| Skuba Diving | Goa | 40 |
+
+
