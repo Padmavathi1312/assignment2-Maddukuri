@@ -26,3 +26,7 @@ List of good food items that are recommended to others in Bawarchi
     - Sizzling brownie icecream
     - Gulab Jamun
 
+---
+
+[link to AboutMe](https://github.com/Padmavathi1312/assignment2-Maddukuri/blob/main/AboutMe.md)
+
