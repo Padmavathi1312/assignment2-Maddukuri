@@ -78,7 +78,7 @@ void union_sets(int a, int b) {
         parent[b] = a;
 }
 ```
-[quick link to the source code - Range sum queries](https://cp-algorithms.com/data_structures/sparse-table.html)
+> https://cp-algorithms.com/data_structures/sparse-table.html
 
 
 
